@@ -103,7 +103,7 @@
 		tf.stringValue = day;
 	}
 //	self.date = [NSDate date];
-//	[self layoutCalendar];
+	[self layoutCalendar];
 }
 
 - (id) viewByID:(NSString*)_id {
