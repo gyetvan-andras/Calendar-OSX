@@ -10,7 +10,7 @@ Calendar component for OSX inspired by some free iOS calendar
 
 #Description
 
-MLCalendarView is a date selector component which is represented as a month calendar.
+MLCalendarView is a date selector component which is represented as a month calendar. This component extracted from the [ModerLook-OSX](https://github.com/gyetvan-andras/ModernLook-OSX) package for easier standalone use.
 
 #Usage
 To use the component in your project you need to copy all the files in the MLCalendar group to your project.
