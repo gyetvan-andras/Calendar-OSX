@@ -38,6 +38,7 @@ Also, there is a delegate for the calendar, which is used to send a message when
 - (void) didSelectDate:(NSDate*)selectedDate;
 @end
 ```
+
 #Sample Application
 The sample application shows the usage of the component as an NSPopover content.
 
